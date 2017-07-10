@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 It's No Secret.mp3";		
+f[2]	= "02 Come Up the Years.mp3";		
+f[3]	= "03 My Best Friend.mp3";		
+f[4]	= "04 Somebody to Love.mp3";		
+f[5]	= "05 Comin' Back to Me.mp3";		
+f[6]	= "06 Embryonic Journey.mp3";		
+f[7]	= "07 White Rabbit.mp3";		
+f[8]	= "08 The Ballad of You and Me and Pooneil.mp3";		
+f[9]	= "09 Watch Her Ride.mp3";		
+f[10]	= "10 Crown of Creation.mp3";		
+f[11]	= "11 Greasy Heart.mp3";		
+f[12]	= "Volunteers.mp3";		

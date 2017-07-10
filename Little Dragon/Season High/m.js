@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "03 The Pop Life.mp3";		
+f[2]	= "06 Should I.mp3";		
+f[3]	= "07 Don't Cry.mp3";		
+f[4]	= "08 Strobe Light.mp3";		
+f[5]	= "Butterflies.mp3";		
+f[6]	= "Celebrate.mp3";		
+f[7]	= "Gravity.mp3";		
+f[8]	= "High.mp3";		
+f[9]	= "Push.mp3";		
+f[10]	= "Sweet.mp3";		
